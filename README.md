@@ -1,4 +1,4 @@
-## Hi there 👋
+## Amarin 👋
 
 <!--
 **Amarin-6530200908/Amarin-6530200908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
